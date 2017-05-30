@@ -1,0 +1,3 @@
+rootProject.name = 'nativeComponents'
+
+include ':app'
